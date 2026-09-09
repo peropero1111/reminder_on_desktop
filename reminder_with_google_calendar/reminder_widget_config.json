@@ -1,0 +1,39 @@
+{
+  "ical_urls": [
+    ""
+  ],
+  "timezone": "Asia/Seoul",
+  "refresh_minutes": 30,
+  "notifications": {
+    "enabled": true,
+    "minutes_before": 30,
+    "check_seconds": 60,
+    "include_all_day": false
+  },
+  "window": {
+    "x": 758,
+    "y": 58,
+    "width": 215,
+    "height": 320,
+    "opacity": 0.94,
+    "always_on_top": false,
+    "frameless": true
+  },
+  "privacy": {
+    "mask_title": "비공개 일정",
+    "hidden_events": [],
+    "hide_details": false
+  },
+  "theme": {
+    "background": "#111315",
+    "panel": "#1A1D21",
+    "panel_soft": "#22272E",
+    "text": "#F4F6F8",
+    "muted": "#A9B1BA",
+    "accent": "#70D6C4",
+    "accent_2": "#FFB86B",
+    "border": "#30363D",
+    "today": "#344F52",
+    "error": "#FF6B6B"
+  }
+}
