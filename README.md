@@ -34,7 +34,7 @@ python -m pip install winotify
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;단  google calendar 의 일정과 연동하고 싶으신 분들은 
 ```powershell
-pip -m install requests icalendar recurring-ical-events
+python -m install requests icalendar recurring-ical-events
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;까지 입력해 주셔야 합니다.
 </br>
