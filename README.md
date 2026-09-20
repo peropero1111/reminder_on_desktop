@@ -148,7 +148,7 @@ python -m install requests icalendar recurring-ical-events
 &nbsp;&nbsp;&nbsp;&nbsp;5.2 [calendar_widget_on_deskop](https://github.com/peropero1111/calendar_widget_on_desktop) 와 마찬가지로 민감한  할 일을 숨길 수 있습니다.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/peropero1111/reminder_with_google_calendar/blob/main/img/2026-09-09%20203529.png?raw=true" width="450" height="450"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/peropero1111/reminder_on_desktop/blob/main/img/2026-09-09%20203311.png?raw=true" width="450" height="450"/> 
 </br>
 </br>
 
@@ -205,17 +205,7 @@ python -m install requests icalendar recurring-ical-events
 `reminder_on_desktop`의 원본 소스 코드에 적용되는 MIT License를
 대체하지 않습니다.
 
-### EXE 배포판에 대한 안내
 
-컴파일되거나 패키징된 EXE 버전에는 Python 런타임 및 추가적인 제3자
-라이브러리와 의존 패키지가 포함될 수 있습니다.
-
-실제로 포함되는 구성요소는 Python 버전, 패키지 버전 및 빌드 환경에
-따라 달라질 수 있습니다.
-
-각 구성요소에는 자체적인 라이선스와 재배포 조건이 적용되므로 새로운
-EXE 버전을 배포할 때에는 실제 빌드에 포함된 패키지와 라이선스를
-별도로 확인하는 것을 권장합니다.
 
 ---
 
