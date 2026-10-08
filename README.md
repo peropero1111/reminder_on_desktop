@@ -238,10 +238,6 @@ Google Calendar와 연동하는 경우 이 프로그램은
 
 * 비공개 iCal 주소를 GitHub 또는 다른 공개 저장소에 올리지 마십시오.
 * 비공개 iCal 주소가 보이는 스크린샷을 공개하지 마십시오.
-* `reminder_widget_config.json`에 비공개 iCal 주소가 저장되어 있다면
-  해당 파일을 공개 저장소에 커밋하지 마십시오.
-* `reminder_widget_config.json`을 `.gitignore`에 추가하는 것을
-  권장합니다.
 * 비공개 iCal 주소가 외부에 노출되었다고 판단되는 경우 기존 주소를
   더 이상 사용하지 말고 Google Calendar에서 주소를 재설정한 뒤 새
   주소를 사용하십시오.
