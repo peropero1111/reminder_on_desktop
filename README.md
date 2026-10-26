@@ -19,11 +19,13 @@
 [5. 기능 소개](#5-기능-소개)
 
 ## 1. 설치
-&nbsp;&nbsp;&nbsp;&nbsp;1.1 적당한 폴더에 reminder_on_desktop 속 내용물을 다운 받아 주십시오.
+&nbsp;&nbsp;&nbsp;&nbsp;1.1-1) py 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.0.1) 안의reminder_on_desktop.zip 속 내용물을 다운 받아 주십시오.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;1.1-2) exe 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.0.1) 안의reminder.exe 를 다운 받아 주십시오.  
 </br>
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.2 reminder_on_desktop 속 reminder.py 에서 다음 명령어를 각각 입력하여 주십시오.
+&nbsp;&nbsp;&nbsp;&nbsp;1.2 reminder.py 에서 다음 명령어를 각각 입력하여 주십시오.
 
 &nbsp;&nbsp;&nbsp;&nbsp;이때 굳이 google calendar 의 일정과 연동하고 싶지 않으신 분들은 
 ```powershell
