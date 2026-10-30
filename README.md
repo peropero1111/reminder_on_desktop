@@ -5,9 +5,7 @@
 
 
 
-[exe 파일링크](https://drive.google.com/drive/folders/1gWtG7FFEK5YoUlfUZFnBOCYaJI3ADCnP?usp=sharing) 로 실행할때의 사용법은 글 하단에 있습니다.
-</br>
-</br>
+
 사용하시기전에 다음 절차를 따라 주십시오.
 </br>
 
