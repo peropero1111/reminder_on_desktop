@@ -17,9 +17,9 @@
 [5. 기능 소개](#5-기능-소개)
 
 ## 1. 설치
-&nbsp;&nbsp;&nbsp;&nbsp;1.1-1) py 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.0.1) 안의reminder_on_desktop.zip 속 내용물을 다운 받아 주십시오.  
+&nbsp;&nbsp;&nbsp;&nbsp;1.1-1) py 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.1.1) 안의reminder_on_desktop.zip 속 내용물을 다운 받아 주십시오.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.1-2) exe 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.0.1) 안의reminder.exe 를 다운 받아 주십시오.  
+&nbsp;&nbsp;&nbsp;&nbsp;1.1-2) exe 로 설치하시려면 적당한 폴더에 [releases](https://github.com/peropero1111/reminder_on_desktop/releases/tag/v1.1.1) 안의reminder.exe 를 다운 받아 주십시오.  
 </br>
 </br>
 
