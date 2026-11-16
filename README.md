@@ -91,6 +91,13 @@ python -m install requests icalendar recurring-ical-events
 </br>&nbsp;&nbsp;&nbsp;&nbsp;3.9 `시작 위치` 에 다음과 같이 입력하여 주십시오  `C:\Users\~ run_widget.py 를 놓은 폴더 경로 주소 ~`
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/peropero1111/reminder_with_google_calendar/blob/main/img/2026-09-09%20185951.png?raw=true" width="450" height="450"/> 
+
+
+
+> [!CAUTION]
+> 만약 .py 로 작업 스케쥴러에 등록 하였음에도 pc가 켜질때 마다 같이 켜지지 않는 경우 동봉한 ``run_widget.vbs`` 의 내부 코드를
+> </br> 자신의 pc에 맞게 변경한 후 .py 와 같은 방식으로 작업 스케쥴러에 등록하시면 정상작동 합니다.
+
 <br>
 </br>
 
